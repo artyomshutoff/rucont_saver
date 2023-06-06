@@ -1,0 +1,31 @@
+1643993877559	geckodriver	INFO	Listening on 127.0.0.1:50721
+1643993880603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\lilquant\\AppData\\Local\\Temp\\rust_mozprofilemzZYKx"
+1643993881005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilquant\\AppData\\Local\\Temp\\rust_mozprofilemzZYKx\\search.json.mozlz4", (void 0)))
+1643993883504	Marionette	INFO	Listening on port 50730
+1643993883765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lib.rucont.ru/node_modules/core-js/client/shim.js?7tpbl8xn, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://lib.rucont.ru/node_modules/zone.js/dist/zone.js?7tpbl8xn, line 426: uncaught exception: Response with status: 401 Unauthorized for URL: https://lib.rucont.ru/api/account/user_info
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://lib.rucont.ru"
+JavaScript error: https://lib.rucont.ru/node_modules/core-js/client/shim.js?7tpbl8xn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://lib.rucont.ru/node_modules/core-js/client/shim.js?7tpbl8xn, line 1: SyntaxError: expected expression, got '<'
+1643994070656	Marionette	INFO	Stopped listening on port 50730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651956247185	geckodriver	INFO	Listening on 127.0.0.1:55882
+1651956250266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55883" "-no-remote" "-profile" "C:\\Users\\lilquant\\AppData\\Local\\Temp\\rust_mozprofileVY9PPM"
+1651956250775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lilquant\\AppData\\Local\\Temp\\rust_mozprofileVY9PPM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55883/devtools/browser/3529b44f-24bf-488d-8fb4-42496dfe18a4
+1651956252491	Marionette	INFO	Listening on port 55888
+1651956252951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lib.rucont.ru/node_modules/core-js/client/shim.js?mpk032jt, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://lib.rucont.ru/node_modules/zone.js/dist/zone.js?mpk032jt, line 426: uncaught exception: Response with status: 401 Unauthorized for URL: https://lib.rucont.ru/api/account/user_info
+JavaScript error: https://lib.rucont.ru/node_modules/core-js/client/shim.js?mpk032jt, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://lib.rucont.ru/node_modules/zone.js/dist/zone.js?mpk032jt, line 426: uncaught exception: Response with status: 401 Unauthorized for URL: https://lib.rucont.ru/api/account/user_info
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://lib.rucont.ru"
+JavaScript error: https://lib.rucont.ru/node_modules/core-js/client/shim.js?mpk032jt, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://lib.rucont.ru/node_modules/core-js/client/shim.js?mpk032jt, line 1: SyntaxError: expected expression, got '<'
+1651956376169	Marionette	INFO	Stopped listening on port 55888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
